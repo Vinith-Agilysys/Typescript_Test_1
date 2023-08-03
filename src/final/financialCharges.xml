@@ -1,0 +1,18 @@
+<financialCharges>
+                        <guestName>"John Doe"</guestName>
+                        <checkInDate>"2023-07-31"</checkInDate>
+                        <checkOutDate>2023-08-04</checkOutDate>
+                        <roomType>Deluxe Double</roomType>
+                        <totalAmount>1200</totalAmount>
+                        <transactionType>1200</transactionType>
+                        <amount>500</amount>
+                        </financialCharges>
+<financialCharges>
+                        <guestName>"Jane Smith"</guestName>
+                        <checkInDate>"2023-08-01"</checkInDate>
+                        <checkOutDate>2023-08-05</checkOutDate>
+                        <roomType>Executive Suite</roomType>
+                        <totalAmount>1800</totalAmount>
+                        <transactionType>1800</transactionType>
+                        <amount>600</amount>
+                        </financialCharges>
