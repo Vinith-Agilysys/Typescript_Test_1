@@ -1,0 +1,113 @@
+{
+    "data": {
+      "folioTransactionById": {
+        "id": "64d32d6393e78b63967a1f98",
+        "type": "CHARGE",
+        "postedDateTime": "2023-08-09T06:08:35.638Z",
+        "transactionDetails": [
+          {
+            "id": "122abca9-2acf-4671-99b0-a8f2de418bd8",
+            "amount": "100.00",
+            "description": "Nightly Room Charge",
+            "account": {
+              "id": "64d32d3693e78b63967a1f87",
+              "createTime": "2023-08-09T06:07:50.603Z",
+              "status": "OPEN",
+              "type": "GUEST"
+            },
+            "folio": {
+              "id": "896a280e-aad9-4b82-a97c-573f9ccf5882",
+              "isDefault": true,
+              "name": "Folio 1"
+            },
+            "postedBy": {
+              "username": "testuser",
+              "firstName": "test",
+              "lastName": "user"
+            },
+            "reservation": {
+              "id": "02485b0a-44b3-4c50-b949-5c1f7a53cd5f",
+              "confirmationCode": "9SSPMPWB3",
+              "thirdPartyConfirmations": [
+                {
+                  "confirmationName": "Bookings.com",
+                  "confirmationNumber": "DBSDJ123"
+                }
+              ],
+              "guestProfile": {
+                "id": "64d32d34c2ddc953e2d7e6f3",
+                "firstName": "satta1",
+                "lastName": "satta1"
+              },
+              "checkInInfo": {
+                "dateTime": "2023-08-09T06:16:42.328Z",
+                "user": {
+                  "username": "testuser",
+                  "firstName": "test",
+                  "lastName": "user"
+                }
+              },
+              "loyaltyMemberships": [
+                {
+                  "id": "007db9fa-a300-45a2-920a-50b0507ffa0f",
+                  "memberId": "RTQIDGI11",
+                  "name": "AA"
+                }
+              ]
+            }
+          },
+          {
+            "id": "3126414e-78c1-456c-bc9e-08a290582b5d",
+            "amount": "9.09",
+            "description": "tax inclusive folio",
+            "account": {
+              "id": "64d32d3693e78b63967a1f87",
+              "createTime": "2023-08-09T06:07:50.603Z",
+              "status": "OPEN",
+              "type": "GUEST"
+            },
+            "folio": {
+              "id": "896a280e-aad9-4b82-a97c-573f9ccf5882",
+              "isDefault": true,
+              "name": "Folio 1"
+            },
+            "postedBy": {
+              "username": "testuser",
+              "firstName": "test",
+              "lastName": "user"
+            },
+            "reservation": {
+              "id": "02485b0a-44b3-4c50-b949-5c1f7a53cd5f",
+              "confirmationCode": "9SSPMPWB3",
+              "thirdPartyConfirmations": [
+                {
+                  "confirmationName": "Bookings.com",
+                  "confirmationNumber": "DBSDJ123"
+                }
+              ],
+              "guestProfile": {
+                "id": "64d32d34c2ddc953e2d7e6f3",
+                "firstName": "satta1",
+                "lastName": "satta1"
+              },
+              "checkInInfo": {
+                "dateTime": "2023-08-09T06:16:42.328Z",
+                "user": {
+                  "username": "testuser",
+                  "firstName": "test",
+                  "lastName": "user"
+                }
+              },
+              "loyaltyMemberships": [
+                {
+                  "id": "007db9fa-a300-45a2-920a-50b0507ffa0f",
+                  "memberId": "RTQIDGI11",
+                  "name": "AA"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
